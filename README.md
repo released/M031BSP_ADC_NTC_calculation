@@ -18,9 +18,9 @@ update @ 2024/09/03
 
 7. below is log capture , convert ADC into temperature at each channel 
 
-![image](https://github.com/released/M031BSP_ADC_NTC_calculation/blob/master/log.jpg)
+![image](https://github.com/released/M031BSP_ADC_NTC_calculation/blob/main/log.jpg)
 
 8. below is reference sch.
 
-![image](https://github.com/released/M031BSP_ADC_NTC_calculation/blob/master/sch.jpg)
+![image](https://github.com/released/M031BSP_ADC_NTC_calculation/blob/main/sch.jpg)
 
